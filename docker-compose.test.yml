@@ -1,0 +1,4 @@
+sut:
+  build: .
+  volumes:
+    - ./spec:/spec
